@@ -40,3 +40,49 @@ main button{
     height: 50px;
     color: white;
 }
+
+/*page 1 and introductory text stuff*/
+/* Buttons*/
+section#buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    text-transform: capitalize;
+
+}
+#easy{
+    background-color: rgb(230, 142, 218);
+}
+#medium{
+    background-color: rgb(142, 34, 146);
+}
+#hard{
+    background-color: rgb(50, 2, 65);
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(4, 53, 61) !important;
+    color: white;
+    font-weight: 700;
+}
+/*Text introduction*/
+.transparent{
+    background-image:url("../Images/43afd01dc42127c352f1fde070cc2be0.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+#invisible{
+    position:absolute;
+    left: -9999px;
+}
+#visible{
+    position: relative;
+    margin-bottom: 6em;
+    margin-left: 5em;
+    margin-right: 5em;
+    text-align: justify;
+    max-height: 70%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 20px;
+}
