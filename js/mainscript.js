@@ -4,14 +4,14 @@ const body = document.getElementById('body')
 const overlay = document.getElementById('overlay')
 
 overlay.className = "overlay"
-function introductionmessage(){
+const introductionmessage = () =>{
     let intro = document.getElementById("invisible")
     intro.id = "visible"
     body.classList.add("transparent") 
     main.removeChild(button)
 }
 
-function loadbuttons(callback){
+const loadbuttons =(callback) => {
     let keyword = "easy"
     let section = document.createElement("section")
     section.id = "buttons"
@@ -35,7 +35,7 @@ function loadbuttons(callback){
     }
 }
 
-function addscript (keyword){
+const addscript = (keyword) =>{
     document.getElementById(keyword).addEventListener( "click", () => {
         let script = document.createElement("script")
         script.src = `../js/${keyword}.js`
