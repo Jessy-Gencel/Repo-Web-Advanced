@@ -86,3 +86,106 @@ button:hover{
     overflow: hidden;
     font-size: 20px;
 }
+/*Main Game*/
+/*Main interface*/
+#blackBar{
+    height: 100%;
+    width: 7px;
+    background-color: black;
+    position: absolute;
+    z-index: -1;
+}
+#leftpicture{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    z-index: -2;
+    left: 0px;
+}
+#rightpicture{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    z-index: -2;
+}
+/*Text on the main interface*/
+div.titles{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    z-index: 2;
+}
+div.titles h2{
+    font-size: 32px;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    padding: .8em;
+    line-height: 1.3em;
+    z-index: 2;
+    text-align: center;
+    text-transform: capitalize;
+}
+div.titles h3{
+    align-self: center;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+div.titles p{
+    font-size: 4em;
+    color: rgb(230, 230, 138);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.3em;
+    font-weight: 700;
+    align-self: center;
+    z-index: 2;
+}
+/*Buttons main game*/
+.gamebuttons{
+    width:10em;
+    border-radius: 26px;
+    background-color: rgb(80, 15, 80);
+}
+#buttonsection{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+section#button_hub{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+section button{
+    border-radius: 26px;
+    font-size: 16px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+/* overlay*/
+.overlay::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+#overlay{
+    position: absolute;
+    height: 90%;
+    width: 100%;
+    top: 92px;
+}
