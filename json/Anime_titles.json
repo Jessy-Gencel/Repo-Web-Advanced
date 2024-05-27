@@ -23,6 +23,480 @@
     "name": "The Melancholy of Haruhi Suzumiya",
     "Malmembers": "527024",
     "url": "https://m.media-amazon.com/images/M/MV5BNWMxMGUzOTktYjliYS00MGMyLWJlNWYtYzljMzZhNDRmODIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Elfen lied",
+    "Malmembers": "1503289",
+    "url": "https://m.media-amazon.com/images/M/MV5BMDU1ZmQwZTQtZjg1OS00YzhhLWE0MTEtYjYxNzdkNzk2NWVkXkEyXkFqcGdeQXVyNTk5NTQ1NzM@._V1_.jpg"
+ },
+ {
+    "name": "Neon Genesis Evangelion",
+    "Malmembers": "1799167",
+    "url": "https://m.media-amazon.com/images/M/MV5BODZkZjUxNmEtMGEyOS00ZDY5LTkxZDMtZTJkZDBiZTkyOWRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+ },
+ {
+    "name": "Code Geass",
+    "Malmembers": "2231753",
+    "url": "https://m.media-amazon.com/images/M/MV5BZmUxZmVlNGMtZGMyMy00MmM3LTg5ZjgtNzFhZWU4MTU5MjIwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Naruto",
+    "Malmembers": "2826358",
+    "url": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Clannad",
+    "Malmembers": "1406209",
+    "url": "https://m.media-amazon.com/images/M/MV5BN2VmM2NmMGUtOGQ2OC00Y2ZjLTljNTctYjhmMDJjZjM1NTY3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg"
+ },
+ {
+    "name": "Frieren: Beyond Journey's End",
+    "Malmembers": "561228",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjVjZGU5ZTktYTZiNC00N2Q1LThiZjMtMDVmZDljN2I3ZWIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+ },
+ {
+    "name": "Attack On Titan",
+    "Malmembers": "3906283",
+    "url": "https://m.media-amazon.com/images/M/MV5BNzc5MTczNDQtNDFjNi00ZDU5LWFkNzItOTE1NzQzMzdhNzMxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+ },
+ {
+    "name": "Kaguya-sama: Love is War ",
+    "Malmembers": "1718519",
+    "url": "https://m.media-amazon.com/images/M/MV5BYjEwNjEwYzgtZGZkMy00MTBjLTg2MmYtNDk0MzY2NmU0MmNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Konosuba",
+    "Malmembers": "1938161",
+    "url": "https://m.media-amazon.com/images/M/MV5BYmZhMTJhZDgtZTc0Yi00NjcxLThhYTAtNmJiYTljMzc1Y2NiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "The Eminence in Shadow",
+    "Malmembers": "617557",
+    "url": "https://m.media-amazon.com/images/M/MV5BMGU1NzE1Y2UtZmZkOC00ODQ4LTkwNDAtNmE4Yzk3NTA4MThlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "One Punch Man",
+    "Malmembers": "3185753",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjJlNzE5YzEtYzQwYS00NTBjLTk5YzAtYzUwOWQyM2E3OGI2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+ },
+ {
+    "name": "Sword Art Online",
+    "Malmembers": "3048438",
+    "url": "https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Tokyo Ghoul",
+    "Malmembers": "2759352",
+    "url": "https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "My Hero Academia",
+    "Malmembers": "2993366",
+    "url": "https://m.media-amazon.com/images/M/MV5BOGZmYjdjN2UtNjAwZi00YmEyLWFhNTEtNjM1OTc5ODg0MGEyXkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_.jpg"
+ },
+ {
+    "name": "Demon Slayer",
+    "Malmembers": "2984908",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg"
+ },
+ {
+    "name": "Hunter x Hunter",
+    "Malmembers": "2796012",
+    "url": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Steins;Gate",
+    "Malmembers": "2539171",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Jujutsu Kaisen",
+    "Malmembers": "2488352",
+    "url": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+ },
+ {
+    "name": "No Game No Life",
+    "Malmembers": "2377358",
+    "url": "https://m.media-amazon.com/images/M/MV5BZTI1MjY3N2YtODczMy00MGQwLWI2NWMtODQwZTE3NTY5OTExXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "One Piece",
+    "Malmembers": "2322625",
+    "url": "https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Toradora!",
+    "Malmembers": "2188502",
+    "url": "https://m.media-amazon.com/images/M/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Re:Zero Starting Life in Another World",
+    "Malmembers": "2174041",
+    "url": "https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Noragami",
+    "Malmembers": "2145606",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjY1MjU5MjQtZWFiNi00MjE0LTk1ZTktY2RhNzc1OWQ1M2FjXkEyXkFqcGdeQXVyNTk5NTQ1NzM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Assasination Classroom",
+    "Malmembers": "1997655",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_.jpg"
+ },
+ {
+    "name": "In Another World With My Smartphone",
+    "Malmembers": "558357",
+    "url": "https://m.media-amazon.com/images/M/MV5BNTYxMzVhMjAtYzBmMi00ZDA2LWJlNzItNGVkYmU0ZGU0NGRmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Solo Leveling",
+    "Malmembers": "481569",
+    "url": "https://m.media-amazon.com/images/M/MV5BODJkZTM3MWYtOTkxNS00YWUxLTg5NjAtOTk4ZWM5MTBmMzAyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+ },
+ {
+    "name": "Danganronpa: The Animation",
+    "Malmembers": "935192",
+    "url": "https://m.media-amazon.com/images/M/MV5BNGJjMmNjM2EtMDAyMi00NTVlLTk1OTAtYjdhMmNkZTVlMTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Redo Of Healer",
+    "Malmembers": "574597",
+    "url": "https://m.media-amazon.com/images/M/MV5BZDg5OTgzNTEtMDJmOS00MWMzLWFmYmQtNTNlZjg5YjI1YjRiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "The Hidden Dungeon Only I Can Enter",
+    "Malmembers": "379607",
+    "url": "https://m.media-amazon.com/images/M/MV5BZDM0MDA4NjctNDA4Zi00NzU1LTk5NzYtZjRhZTIwMzQxOWM0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+    "Malmembers": "122810",
+    "url": "https://m.media-amazon.com/images/M/MV5BMmYzYzdhYjQtMTJlNS00MDEzLWFmZTQtODE2ZTk1NjgyNWMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+    "Malmembers": "614385",
+    "url": "https://m.media-amazon.com/images/M/MV5BNjcwNTMyZDEtMTc3ZS00OGVkLTlhZDktZDUyZTI4MzEzMjNiXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Arifureta: From Commonplace To World's Strongest",
+    "Malmembers": "690849",
+    "url": "https://m.media-amazon.com/images/M/MV5BNjhmZTYzNTUtMjM3My00MTFjLTk5MDQtMGI2ZDlkNjk4ZTMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "My Dress-up Darling",
+    "Malmembers": "1036183",
+    "url": "https://m.media-amazon.com/images/M/MV5BMzkyYWY3NTEtYzBkNC00Zjc3LThmY2UtZWU3MTRkMTgwODU5XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Horimiya",
+    "Malmembers": "1356573",
+    "url": "https://m.media-amazon.com/images/M/MV5BZWNiY2IwMGUtYTk1NC00NmE5LWE4NTItYmQyNDJmMGU2MDMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Renai Flops",
+    "Malmembers": "135927",
+    "url": "https://m.media-amazon.com/images/M/MV5BOTZlYzgwNmEtMTZjNi00MWZhLThhOGMtMWQwNGNmZTU5NzBhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+    "Malmembers": "191737",
+    "url": "https://m.media-amazon.com/images/M/MV5BYWRiMWQ5YmQtZjEzMC00ZGVlLThhNTUtYmZiYzVkM2U1MjI0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Akame Ga Kill",
+    "Malmembers": "2070747",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Erased",
+    "Malmembers": "2073809",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzJmZjZkMjQtZjJmZC00M2JkLTg5MzktN2FkOTllNTc5MmMzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Mob Psycho 100",
+    "Malmembers": "2049898",
+    "url": "https://m.media-amazon.com/images/M/MV5BYWIwZjhkMzgtOWExYi00ZGIwLTg1ZTktNjQyZWIxYWFmZTc0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Angel Beats!",
+    "Malmembers": "2061251",
+    "url": "https://m.media-amazon.com/images/M/MV5BN2RkZjk0ODctNWE0MS00MjFlLTliMDMtZTFhMWM2NTAxMDg1XkEyXkFqcGdeQXVyNjc0ODMyMDc@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Seven Deadly Sins",
+    "Malmembers": "2039962",
+    "url": "https://m.media-amazon.com/images/M/MV5BNmIzNTEwMGQtODE1YS00ZWNmLTg1YWUtYTg5YzQ5NTc0YzBjXkEyXkFqcGdeQXVyMTA0MDYyNzA0._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Haikyuu!!",
+    "Malmembers": "1948706",
+    "url": "https://m.media-amazon.com/images/M/MV5BNjkyNDI2MTgtN2Y3NS00M2RjLWJhNDMtMmNmZmUwMDQwZTE1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Blue Lock",
+    "Malmembers": "652644",
+    "url": "https://m.media-amazon.com/images/M/MV5BODBmM2JmY2EtMzRlZC00Njk0LTg5NGMtZjdjMjQ5ZTJhYWQ3XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Promised Neverland",
+    "Malmembers": "1947991",
+    "url": "https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Blue Excorcist",
+    "Malmembers": "1913538",
+    "url": "https://m.media-amazon.com/images/M/MV5BNjYyMjhiNTYtN2M3Yy00NTlhLWJkMmEtMzVhOGEyMzNjNTNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Welcome to Demon School! Iruma Kun",
+    "Malmembers": "481421",
+    "url": "https://m.media-amazon.com/images/M/MV5BOWJiNjllZGEtYzIxOS00ZGFhLTgwNWMtNzNjNTM4NzJhM2RkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Parasyte: The Maxim",
+    "Malmembers": "1852225",
+    "url": "https://m.media-amazon.com/images/M/MV5BZTViMTZlMjgtNjVmZC00NjEzLWJlN2QtMjQ4ZTYxNzBiZmMyXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Violet Evergarden",
+    "Malmembers": "1760802",
+    "url": "https://m.media-amazon.com/images/M/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Misfit Of Demon King Academy",
+    "Malmembers": "787166",
+    "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTUyZjgtMmM5NS00NzQ4LTg1ZmQtZmVhNmQyMmJlZDMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Fairy Tale",
+    "Malmembers": "1726766",
+    "url": "https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Death Parade",
+    "Malmembers": "1754862",
+    "url": "https://m.media-amazon.com/images/M/MV5BOWExOTEzZWYtYWJhMS00OTM5LWI1M2EtODZiYzE4ZDQ4ZGJkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+ },
+ {
+    "name": "Dr. Stone",
+    "Malmembers": "1718814",
+    "url": "https://m.media-amazon.com/images/M/MV5BYmU2MzEyMjAtOTQ5Yy00NGMxLTg0NmItMTQ0ZTM5OGY0NjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Rascal Does Not Dream Of Bunny Girl Senpai",
+    "Malmembers": "1718144",
+    "url": "https://m.media-amazon.com/images/M/MV5BMGQ1ZjYzOGQtOWFhNy00YzQwLWEyYmItZGYwODQ4NDU3MDhlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Another",
+    "Malmembers": "1655046",
+    "url": "https://m.media-amazon.com/images/M/MV5BNWYzNmZmMTUtNzI1YS00NTYwLWIxYWQtMThmYjY1Y2MwZDc2XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Jojo's Bizarre Adventure",
+    "Malmembers": "1645272",
+    "url": "https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Black Clover",
+    "Malmembers": "1643290",
+    "url": "https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Date A Live",
+    "Malmembers": "1022496",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjg5NGQ0ZjMtODk0MC00MmNlLWJmZTUtZDUwNmY1ZTc3ODk0XkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "Malmembers": "1288345",
+    "url": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Maid Sama!",
+    "Malmembers": "1240065",
+    "url": "https://m.media-amazon.com/images/M/MV5BNWJkYzM4MWQtZWE2Mi00NmJkLTg5ZmUtNzNlMGYzOWYwYzE4XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Pet Girl Of Sakurasou",
+    "Malmembers": "1238806",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjkxMmMzNzYtODM5ZS00ZGFkLWFlMjItMTA5MTE0ZDZmMzQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_.jpg"
+ },
+ {
+    "name": "Ouran High School Host Club ",
+    "Malmembers": "1116440",
+    "url": "https://m.media-amazon.com/images/M/MV5BNzAwZDlmMjctMzkwMC00Y2U3LTlmOGUtNGY2MTc5MzFhZjk0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Log Horizon",
+    "Malmembers": "1110454",
+    "url": "https://m.media-amazon.com/images/M/MV5BOGJhM2U4NTgtMWI0ZC00Njc5LWJmMjktMzQzMDgzZTIzMzI0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+ },
+ {
+    "name": "The Disastrous life of Saiki K",
+    "Malmembers": "1090655",
+    "url": "https://m.media-amazon.com/images/M/MV5BYmFiNTU2YWUtZjVjYy00MDJmLThlNzMtYTBhNzZmMmUyN2JlXkEyXkFqcGdeQXVyMTMzNDc0Nzky._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "ReLife",
+    "Malmembers": "1029236",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjk3ZmM0NmMtYzY1MC00Y2MyLTkxZjYtNjA2MDlhNTRhNWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Overlord",
+    "Malmembers": "1577039",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjYxZjFkNTEtZjYzNC00MTdhLThiM2ItYmRiOWJiYTJkYzMxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "To Your Eternity",
+    "Malmembers": "859301",
+    "url": "https://m.media-amazon.com/images/M/MV5BMWI4MjNjNjgtNWE0MC00NThmLTg0YzEtMDZlODA5NTJhYzY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Btooom!",
+    "Malmembers": "853905",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzJkMGQ2YmMtZWI5ZC00NWZiLWI1NTItZTkxYmE2Mjg2NDRkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+ },
+ {
+    "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "Malmembers": "1513823",
+    "url": "https://m.media-amazon.com/images/M/MV5BY2JhZThjMjAtMjA5Yi00ZTIxLTljODctZDgxMzdlMzA2YjllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Seraph of the End: Vampire Reign ",
+    "Malmembers": "1324233",
+    "url": "https://m.media-amazon.com/images/M/MV5BZTNlYmU1MmItMGFiNi00MjUxLThlOWMtMzgxMzIyNzk3ODgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "From the New World",
+    "Malmembers": "773861",
+    "url": "https://m.media-amazon.com/images/M/MV5BYjU0NzNjZTItODEwNy00YjM5LWE5YWItOWUzMWJhNzQwNTYzXkEyXkFqcGdeQXVyNjUyNDQyMTk@._V1_.jpg"
+ },
+ {
+    "name": "Grand Blue Dreaming",
+    "Malmembers": "770105",
+    "url": "https://m.media-amazon.com/images/M/MV5BMTNjNGRhZWYtN2U0Yi00ZjU4LWI0MTUtZTc4ZDI0ZTk0YzI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg"
+ },
+ {
+    "name": "Haven't You Heard? I'm Sakamoto",
+    "Malmembers": "765294",
+    "url": "https://m.media-amazon.com/images/M/MV5BYjYxMTcwNTAtNjg3NS00ODA3LWI4MDMtNWVmMzhiMDZiZGRiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg"
+ },
+ {
+    "name": "Oshi No Ko",
+    "Malmembers": "754150",
+    "url": "https://m.media-amazon.com/images/M/MV5BYWFkZDRlZWUtNmZjZS00YTg5LWIwMzQtNTVhYTk3MjQ4ZjY2XkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Hellsing Ultimate",
+    "Malmembers": "923451",
+    "url": "https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+ },
+ {
+    "name": "Blood Lad",
+    "Malmembers": "685082",
+    "url": "https://m.media-amazon.com/images/M/MV5BOWVlMjRkYmYtY2U2Mi00ZDE1LTg1NDAtNzkxYWI4Yjk5OTMzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "My Love Story!!",
+    "Malmembers": "670456",
+    "url": "https://m.media-amazon.com/images/M/MV5BMzUxZDhmN2EtNzU0NS00YzRkLWJhYWEtYTQ2MzdjOTFlZTY4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Claymore",
+    "Malmembers": "668967",
+    "url": "https://m.media-amazon.com/images/M/MV5BMWY2MzE1Y2EtY2Y4Ni00NjQ3LThiNjgtNGMxNWMwYzZiNjgwXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Cells at Work!!",
+    "Malmembers": "269503",
+    "url": "https://m.media-amazon.com/images/M/MV5BYWUzMzU4MjAtNjY0Yi00NzliLThmY2QtODViZWY0Y2NjOWM4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "SK8 the Infinity",
+    "Malmembers": "551132",
+    "url": "https://m.media-amazon.com/images/M/MV5BYTUzM2YyNGYtYTY4ZS00MDVmLWIyYWMtYmU3MDgxZDU1NjU4XkEyXkFqcGdeQXVyMTI4MTE3MTY4._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Bocchi the Rock!",
+    "Malmembers": "541134",
+    "url": "https://m.media-amazon.com/images/M/MV5BZTE3M2JkZjUtODQ4My00NzBlLTllZTctNDBlODcxNDU0MWNmXkEyXkFqcGdeQXVyNjc3NTI5MDY@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Case Study of Vanitas",
+    "Malmembers": "524155",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzM4ODUyNzItMjM0NC00MjVlLWFhZWMtMmFlNGFiYTQxZmVkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+ },
+ {
+    "name": "Demon King Daimao",
+    "Malmembers": "524803",
+    "url": "https://m.media-amazon.com/images/M/MV5BZmRjZjgxZGQtZmFhZi00NjI2LTkzMWUtMDI1OTU3ZTI0ZGY1XkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Shikimori's Not Just a Cutie",
+    "Malmembers": "518119",
+    "url": "https://m.media-amazon.com/images/M/MV5BYjhkY2EyYjEtYjhlNS00ZmRiLWFmNjktNjJjNTJmYWQ2ZjMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Kiss Him, Not Me!",
+    "Malmembers": "451073",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjAyYWNiZTgtN2FjNy00YmQyLWI2YjMtNzdkYTJiZGE2N2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "My Next Life as a Villainess: All Routes Lead to Doom!",
+    "Malmembers": "445971",
+    "url": "https://m.media-amazon.com/images/M/MV5BOTIwZjQyZWQtZjk5NS00NzI0LTlmMDAtOWExM2QxZTAxZjAxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "AHO-Girl",
+    "Malmembers": "492647",
+    "url": "https://m.media-amazon.com/images/M/MV5BNTNhZmY0OWEtMzNjZi00N2Q4LThjMTItYzM4MGI5Y2I0NTMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Skip Beat!",
+    "Malmembers": "268481",
+    "url": "https://m.media-amazon.com/images/M/MV5BOTkwMTRjNGYtMmIzZS00MTdkLWIxNjYtODUzNzI4Mzc0NjdmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg"
+ },
+ {
+    "name": "Rainbow Days",
+    "Malmembers": "231908",
+    "url": "https://m.media-amazon.com/images/M/MV5BMmY5ZDMxYjktZjY5NC00ZWMwLTllODctNmM0MDU3NWMwN2VkXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_.jpg"
+ },
+ {
+    "name": "I'm the Villainess, So I'm Taming the Final Boss",
+    "Malmembers": "162939",
+    "url": "https://m.media-amazon.com/images/M/MV5BNTBmZGM2YmEtMDg1Mi00MGE5LWIyNGEtMTE0MThmNTA1YjdiXkEyXkFqcGdeQXVyODkzMzE0Nzc@._V1_.jpg"
+ },
+ {
+    "name": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+    "Malmembers": "801868",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjIzOTkwNTctZGYyNy00MDAxLWFkZjItN2ZiMjA4YzA3MTRhXkEyXkFqcGdeQXVyMTM0NDkxNDIz._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "Uzaki-chan Wants to Hang Out!",
+    "Malmembers": "471664",
+    "url": "https://m.media-amazon.com/images/M/MV5BNThkZmQxZDAtYmQ5Mi00N2Y2LTlmNTgtYjA2ZGY5ODE5MzcyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "How Not to Summon a Demon Lord",
+    "Malmembers": "717846",
+    "url": "https://m.media-amazon.com/images/M/MV5BZjQ5MmI3ZjQtNjM3Ny00MTk4LWEyNmUtYTk1MTJmNTY4YWRlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "The Quintessential Quintuplets",
+    "Malmembers": "937611",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzU4YTdmYmYtNjVhYy00Njk1LWJmYjEtZmQ3MWNkZTMzYzNiXkEyXkFqcGdeQXVyNDAzNDkxNTU@._V1_.jpg"
+ },
+ {
+    "name": "Food Wars! Shokugeki no Soma",
+    "Malmembers": "1631893",
+    "url": "https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+    "name": "In/Spectre",
+    "Malmembers": "470476",
+    "url": "https://m.media-amazon.com/images/M/MV5BYzBmNjIxMDktMjk2MS00MjA0LTljYjQtZWNiYjM2YmU3Y2E1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
  }
-
 ]

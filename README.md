@@ -7,9 +7,9 @@ In deze read me staan alle gebruikte bronnen en waar ik deze heb toegepast. Hier
     <li>Event aan een element koppelen -> mainscript lijn 39</li>
     <li>Formulier valideren -> nog niet</li>
     <li>Gebruiken van een constante -> mainscript lijn 1</li>
-    <li>Gebruiken van template literals -> mainscript lijn 41</li>
+    <li>Gebruiken van template literals -> mainscript lijn 41<li>
     <li>Destructuring -> easyscript lijn 55</li>
-    <li>Spread & Rest operator -> nog niet</li>
+    <li>Spread & Rest operator -> spread operator: easyscript lijn 130, rest operator: nog niet</li>
     <li>Iteration over een array -> nog niet</li>
     <li>Arrow function -> mainscript lijn 7</li>
     <li>Callback function -> mainscript lijn 50</li>
@@ -18,10 +18,11 @@ In deze read me staan alle gebruikte bronnen en waar ik deze heb toegepast. Hier
     <li>Async & Await -> easyscript lijn 39</li>
     <li>Self executing function -> easyscript lijn 1</li>
     <li>Fetch om data op te halen -> easyscript lijn 39</li>
-    <li>JSON manipuleren en weergeven -> nog niet</li>
+    <li>JSON manipuleren en weergeven -> easyscript lijn 105,145-165</li>
     <li>Basis CSS Animatie -> nog niet</li>
-    <li>Gebruiken van een flexbox of CSS grid -> flexbox CSS lijn 46, grid nog niet</li>
-    <li>Gebruik van LocalStorage -> nog niet</li>
+    <li>Gebruiken van een flexbox of CSS grid -> flexbox CSS 
+    lijn 46, grid nog niet</li>
+    <li>Gebruik van LocalStorage -> easyscript lijn 61-70</li>
 </ul>
 
 bronnen commit 1:
@@ -41,6 +42,14 @@ ChatGPT:
 Youtube videos Mike Derycke: https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy
 videos 7,8,17
 
+bronnen commit 4: 
+ChatGPT:(https://1drv.ms/w/c/12fb30867d028171/EW7FY3Rcv6lMvVM06WvOTmEBvkYVDwAU_8f2pdAbov0DXQ?e=wx1ZyO)
+
+Video over het gebruik van LocalStorage:
+https://www.youtube.com/watch?v=fYTTUBa-lPc
+
+Algemene info over het gebruik van JSON: 
+https://www.youtube.com/watch?v=iiADhChRriM
 
 
 
