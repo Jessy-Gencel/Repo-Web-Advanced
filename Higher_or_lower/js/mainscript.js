@@ -39,6 +39,7 @@ const addscript = (keyword) =>{
     document.getElementById(keyword).addEventListener( "click", () => {
         let script = document.createElement("script")
         script.src = `../js/${keyword}.js`
+        script.type = 'module'
         document.body.appendChild(script)
         document.getElementById("buttons").remove();
         document.getElementById("visible").remove();

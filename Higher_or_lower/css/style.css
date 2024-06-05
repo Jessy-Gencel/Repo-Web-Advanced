@@ -1,3 +1,4 @@
+
 /*Main page stuff*/
 *{
     margin: 0;
@@ -86,6 +87,7 @@ button:hover{
     overflow: hidden;
     font-size: 20px;
 }
+
 /*Main Game*/
 /*Main interface*/
 #blackBar{
@@ -188,4 +190,67 @@ section button{
     height: 90%;
     width: 100%;
     top: 92px;
+}
+
+/*Scores*/
+#currentscore{
+    font-size: x-large;
+    left: 24px;
+    bottom: 24px;
+    position: absolute;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#ffffff;
+    z-index: 6;
+}
+#highscore{
+    right: 24px;
+    bottom: 24px;
+    position: absolute;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#ffffff;
+    font-size: x-large;
+    z-index: 6;
+}
+
+/*LossScreen*/
+#lossscreen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:400px;
+    height: 400px;;
+    background-color: white;
+    color: black;
+    border-color: yellowgreen;
+    border-style: solid;
+    flex-direction: column;
+    animation: slideInBottom 0.5s ease-out;
+}
+#lossscreen p{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(230, 230, 138);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    align-self: center;
+}
+#losscontainer{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 500;
+}
+
+
+@keyframes slideInBottom {
+    from {
+        transform: translateY(100%);
+    }
+    to {
+        transform: translateY(0);
+    }
 }
