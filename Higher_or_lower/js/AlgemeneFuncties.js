@@ -120,6 +120,9 @@ const switchanime = async(animedata,difficulty) =>{
         animedata.currenttwoanime = await loadjson(difficulty).then(data => firsttwo(data,animedata))
     }else{
         animedata.randomarray.pop()
+        if(animedata.randomarray.length == 0){
+            animedata.currenttwoanime = await loadjson(difficulty).then(data => firsttwo(data,animedata))
+        }
         animedata.currenttwoanime.pop()
         animedata.currenttwoanime.push(...animedata.randomarray.slice(animedata.randomarray.length -1,animedata.randomarray.length))    
         animedata.currenttwoanime = await switcher(animedata.currenttwoanime,animedata)   
@@ -139,26 +142,61 @@ const displayanime = async(higherbutton,lowerbutton,leftanime,rightanime,
     rightanime.innerHTML = ""
 
     for (let i = 0; i <= 1; i++) {
-        let malmembers = JSON.parse(animedata.currenttwoanime[i].Malmembers)
-        let stringmalmembers = malmembers.toString()
         let titles = document.createElement("div")
         let url = animedata.currenttwoanime[i].url
         let big_array = []
-        for (let j = 0; stringmalmembers.length > j ;j++) {
-            let array_of_character = stringmalmembers.slice(j,j+1)
-            big_array.push(array_of_character)
+        if(difficulty == "Easy"){
+            let malmembers = JSON.parse(animedata.currenttwoanime[i].Malmembers)
+            let stringmalmembers = malmembers.toString()
+            for (let j = 0; stringmalmembers.length > j ;j++) {
+                let array_of_character = stringmalmembers.slice(j,j+1)
+                big_array.push(array_of_character)
+            }
+        }else if(difficulty == "Medium"){
+            let malfavorites = JSON.parse(animedata.currenttwoanime[i].Malfavorites)
+            let stringmalfavorites = malfavorites.toString()
+            for (let j = 0; stringmalfavorites.length > j ;j++) {
+                let array_of_character = stringmalfavorites.slice(j,j+1)
+                big_array.push(array_of_character)
+            }
+        }else{
+            let malfollowers = JSON.parse(animedata.currenttwoanime[i].Malfollowers)
+            let stringmalfollowers = malfollowers.toString()
+            for (let j = 0; stringmalfollowers.length > j ;j++) {
+                let array_of_character = stringmalfollowers.slice(j,j+1)
+                big_array.push(array_of_character)
+            }
         }
         console.log(big_array);
-        if(big_array.length >= 7){
-            dottedformat = `${big_array[0]}.${big_array[1]}${big_array[2]}${big_array[3]}.${big_array[4]}${big_array[5]}${big_array[6]}`
-        }else{
-            dottedformat = `${big_array[0]}${big_array[1]}${big_array[2]}.${big_array[3]}${big_array[4]}${big_array[5]}`
+        let reversedArray = big_array.slice().reverse();
+        let dottedformat = '';
+        for (let i = 1; i <= reversedArray.length; i++) {
+            dottedformat += reversedArray[i-1];
+            if (i % 3 === 0 && i != reversedArray.length && reversedArray.length > 4) {
+                dottedformat += '.';
+            }
         }
-        titles.innerHTML = `<h2>\"${animedata.currenttwoanime[i].name}\"</h2>
-        <h3> has</h3>
-        <p id= \"viewcount\" >${dottedformat}</p>
-        <h3>viewers</h3>`
-        titles.className = "titles"
+        dottedformat = dottedformat.split('').reverse().join('')
+
+        if(difficulty == "Easy"){
+            titles.innerHTML = `<h2>\"${animedata.currenttwoanime[i].name}\"</h2>
+            <h3> has</h3>
+            <p id= \"viewcount\" >${dottedformat}</p>
+            <h3>viewers</h3>`
+            titles.className = "titles"
+        }else if(difficulty == "Medium"){
+            titles.innerHTML = `<h2>\"${animedata.currenttwoanime[i].name}\"</h2>
+            <h3> has</h3>
+            <p id= \"viewcount\" >${dottedformat}</p>
+            <h3>favorites</h3>`
+            titles.className = "titles"
+        }else{
+            titles.innerHTML = `<h2>\"${animedata.currenttwoanime[i].name}\"</h2>
+            <h3> has</h3>
+            <p id= \"viewcount\" >${dottedformat}</p>
+            <h3>followers</h3>`
+            titles.className = "titles"
+        }
 
         if (i == 0) {
             animedata.hiddenvalue = dottedformat
@@ -171,7 +209,8 @@ const displayanime = async(higherbutton,lowerbutton,leftanime,rightanime,
             leftanime.appendChild(titles);
             leftanime.setAttribute("style", `background-image:url(${url}) ;
             background-size: cover;`)
-        }   
+        }
+        dottedformat = ""   
     }
     return animedata.currenttwoanime
 }
