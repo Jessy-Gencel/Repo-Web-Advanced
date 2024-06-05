@@ -2,27 +2,27 @@ Een project voor het vak Web Advanced. Ik maak een higher or lower spel met anim
 In deze read me staan alle gebruikte bronnen en waar ik deze heb toegepast. Hieronder staat de checklist van gebruikte javascript concepten en waar ik deze heb toegepast
 
 <ul>
-    <li>Elementen selecteren -> mainscript lijn 1</li>
-    <li>Elementen manipuleren -> mainscript lijn 6</li>
-    <li>Event aan een element koppelen -> mainscript lijn 39</li>
-    <li>Formulier valideren -> nog niet</li>
-    <li>Gebruiken van een constante -> mainscript lijn 1</li>
-    <li>Gebruiken van template literals -> mainscript lijn 41<li>
-    <li>Destructuring -> easyscript lijn 55</li>
-    <li>Spread & Rest operator -> spread operator: easyscript lijn 130, rest operator: nog niet</li>
-    <li>Iteration over een array -> nog niet</li>
-    <li>Arrow function -> mainscript lijn 7</li>
-    <li>Callback function -> mainscript lijn 50</li>
-    <li>Promise -> easyscript lijn 44</li>
-    <li>Consumer methods -> easyscript lijn 66</li>
-    <li>Async & Await -> easyscript lijn 39</li>
-    <li>Self executing function -> easyscript lijn 1</li>
-    <li>Fetch om data op te halen -> easyscript lijn 39</li>
-    <li>JSON manipuleren en weergeven -> easyscript lijn 105,145-165</li>
-    <li>Basis CSS Animatie -> nog niet</li>
-    <li>Gebruiken van een flexbox of CSS grid -> flexbox CSS 
-    lijn 46, grid nog niet</li>
-    <li>Gebruik van LocalStorage -> easyscript lijn 61-70</li>
+    <li>Elementen selecteren -> higher or lower mainscript lijn 1</li>
+    <li>Elementen manipuleren -> higher or lower mainscript lijn 6</li>
+    <li>Event aan een element koppelen -> higher or lower mainscript lijn 39</li>
+    <li>Formulier valideren -> Calculator main.js lijn 72 </li>
+    <li>Gebruiken van een constante -> higher or lower mainscript lijn 1</li>
+    <li>Gebruiken van template literals ->higher or lower mainscript lijn 41<li>
+    <li>Destructuring -> higher or lower AlgemeneFuncties lijn 110</li>
+    <li>Spread & Rest operator -> spread operator: higher or lower AlgemeneFuncties lijn 127, rest operator: calculator main.js lijn 26</li>
+    <li>Iteration over een array -> calculator main.js lijn 51</li>
+    <li>Arrow function -> higher or lower mainscript lijn 7</li>
+    <li>Callback function -> higher or lower mainscript lijn 50</li>
+    <li>Promise -> higher or lower AlgemeneFuncties lijn 99</li>
+    <li>Consumer methods -> higher or lower AlgemeneFuncties lijn 120</li>
+    <li>Async & Await -> higher or lower AlgemeneFuncties lijn 83-85</li>
+    <li>Self executing function -> higher or lower AlgemeneFuncties lijn 1</li>
+    <li>Fetch om data op te halen -> higher or lower AlgemeneFuncties lijn 85</li>
+    <li>JSON manipuleren en weergeven -> higher or lower AlgmeneFuncties lijn 123,148-169</li>
+    <li>Basis CSS Animatie -> Higher_Or_Lower CSS lijn 249</li>
+    <li>Gebruiken van een flexbox of CSS grid -> Higher or  lower flexbox CSS 
+    lijn 46, Calculator CSS lijn 9</li>
+    <li>Gebruik van LocalStorage -> higher or lower AlgmeneFuncties lijn 40-56</li>
 </ul>
 
 bronnen commit 1:

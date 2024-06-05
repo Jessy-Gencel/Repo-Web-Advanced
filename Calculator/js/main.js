@@ -69,7 +69,7 @@ backspace[0].addEventListener( 'click' ,function () {
     updateDisplay();
 })
 
-function removeConsecutiveOperators(display) {
+function checkForConsecutiveOperators(display) {
     const operators = [" + ", " - ", " * ", " / "];
     let newDisplay = [];
     for (let i = 0; i < display.length; i++) {
@@ -99,8 +99,7 @@ equals[0].addEventListener( 'click' ,function () {
         updateDisplay()
         return
     }
-    console.log(removeConsecutiveOperators(display))
-    if(removeConsecutiveOperators(display) == undefined){
+    if(checkForConsecutiveOperators(display) == undefined){
         alert("Invalid expression!");
         display = [];
         updateDisplay();
