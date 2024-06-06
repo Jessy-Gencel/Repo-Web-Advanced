@@ -204,11 +204,17 @@ const displayanime = async(higherbutton,lowerbutton,leftanime,rightanime,
             document.getElementsByTagName("p")[0].textContent = "???"
             rightanime.setAttribute("style", `background-image:url(${url}) ; 
             background-size: cover;`)
+            if(difficulty == "Hard"){
+                rightanime.style.backgroundPosition = 'center'
+            }
         }
         else {
             leftanime.appendChild(titles);
             leftanime.setAttribute("style", `background-image:url(${url}) ;
             background-size: cover;`)
+            if(difficulty == "Hard"){
+                leftanime.style.backgroundPosition = 'center'
+            }
         }
         dottedformat = ""   
     }
