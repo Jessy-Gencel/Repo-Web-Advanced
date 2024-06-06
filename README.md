@@ -1,5 +1,15 @@
-Een project voor het vak Web Advanced. Ik maak een higher or lower spel met anime thematiek. 
-In deze read me staan alle gebruikte bronnen en waar ik deze heb toegepast. Hieronder staat de checklist van gebruikte javascript concepten en waar ik deze heb toegepast
+<h1>Een project voor het vak Web Advanced </h1> 
+<p>Ik maak een higher or lower spel met anime thematiek. Verder maak ik ook een basis rekenmachine. Om aan de slag te gaan met dit project moeten de volgende stappen gevolgd worden: </p>
+
+1. Download de code in ZIP formaat
+2. Pak de code uit in een aparte folder
+3. Open de Higher_or_Lower folder of de calculator folder in Visual Studio Code (VSC)
+4. installeer de VSC extension live server
+5. Selecteer het html bestand in de html folder en klik op het het live server icoontje rechtsonder.
+6. Veel plezier!
+
+<h2>Checklist</h2>
+<p>Hieronder staat de checklist van gebruikte javascript concepten en waar ik deze heb toegepast. </p> 
 
 <ul>
     <li>Elementen selecteren -> higher or lower mainscript lijn 1</li>
@@ -25,31 +35,50 @@ In deze read me staan alle gebruikte bronnen en waar ik deze heb toegepast. Hier
     <li>Gebruik van LocalStorage -> higher or lower AlgmeneFuncties lijn 40-56</li>
 </ul>
 
+<h2>Bronnen</h2>
+
+<p>Uiteindelijk staan hier alle bronnen onderverdeeld per commit. De chatgpt screenshots hebben meestal de betreffende lijnen code gemarkeerd. Deze lijnen komen overeen met hoe het project eruit zag op het moment van committen. </p>
+
+
 bronnen commit 1:
-ChatGPT:
-(https://1drv.ms/w/c/12fb30867d028171/EW7FY3Rcv6lMvVM06WvOTmEBvkYVDwAU_8f2pdAbov0DXQ?e=wx1ZyO)
+[ChatGPT:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 bronnen commit 2:
-ChatGPT:
-(https://1drv.ms/w/c/12fb30867d028171/EW7FY3Rcv6lMvVM06WvOTmEBvkYVDwAU_8f2pdAbov0DXQ?e=wx1ZyO)
+[ChatGPT:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+
 Cursus Web Advanced 
-Youtube videos Mike Derycke: https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy
+
+Youtube videos Mike Derycke [YoutubePlaylistLink](https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy)
+
 videos 2,3,6
-Video over callbacks: https://www.youtube.com/watch?v=kz_vwAF4NHI
+
+Video over callbacks [Video](https://www.youtube.com/watch?)v=kz_vwAF4NHI
 bronnen commit 3:
-ChatGPT:
-(https://1drv.ms/w/c/12fb30867d028171/EW7FY3Rcv6lMvVM06WvOTmEBvkYVDwAU_8f2pdAbov0DXQ?e=wx1ZyO)
-Youtube videos Mike Derycke: https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy
+[ChatGPT:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+
+Youtube videos Mike Derycke: 
+[YoutubePlaylistLink:](https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy)
 videos 7,8,17
 
 bronnen commit 4: 
-ChatGPT:(https://1drv.ms/w/c/12fb30867d028171/EW7FY3Rcv6lMvVM06WvOTmEBvkYVDwAU_8f2pdAbov0DXQ?e=wx1ZyO)
+[ChatGPT:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 Video over het gebruik van LocalStorage:
-https://www.youtube.com/watch?v=fYTTUBa-lPc
+[Youtubelink:](https://www.youtube.com/watch?v=fYTTUBa-lPc)
 
 Algemene info over het gebruik van JSON: 
-https://www.youtube.com/watch?v=iiADhChRriM
+[Youtubelink:](https://www.youtube.com/watch?v=iiADhChRriM)
+
+
+bronnen commit 5: 
+[ChatGPT/Copilot:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+
+bronnen commit 6:
+[ChatGPT/Copilot:](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+
+
+Manier om van string arrays te maken[W3schools](https://www.w3schools.com/jsref/jsref_from.asp)
+
 
 
 
