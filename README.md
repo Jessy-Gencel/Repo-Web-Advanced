@@ -15,7 +15,7 @@
     <li>Elementen selecteren -> higher or lower mainscript lijn 1</li>
     <li>Elementen manipuleren -> higher or lower mainscript lijn 6</li>
     <li>Event aan een element koppelen -> higher or lower mainscript lijn 39</li>
-    <li>Formulier valideren -> Calculator main.js lijn 72 </li>
+    <li>Formulier valideren -> Calculator main.js lijn 72, User_verification heel de file</li>
     <li>Gebruiken van een constante -> higher or lower mainscript lijn 1</li>
     <li>Gebruiken van template literals ->higher or lower mainscript lijn 41<li>
     <li>Destructuring -> higher or lower AlgemeneFuncties lijn 110</li>
