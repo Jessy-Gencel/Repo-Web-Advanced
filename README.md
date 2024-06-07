@@ -11,29 +11,69 @@
 <h2>Checklist</h2>
 <p>Hieronder staat de checklist van gebruikte javascript concepten en waar ik deze heb toegepast. </p> 
 
-<ul>
-    <li>Elementen selecteren -> higher or lower mainscript lijn 1</li>
-    <li>Elementen manipuleren -> higher or lower mainscript lijn 6</li>
-    <li>Event aan een element koppelen -> higher or lower mainscript lijn 39</li>
-    <li>Formulier valideren -> Calculator main.js lijn 72, User_verification heel de file</li>
-    <li>Gebruiken van een constante -> higher or lower mainscript lijn 1</li>
-    <li>Gebruiken van template literals ->higher or lower mainscript lijn 41<li>
-    <li>Destructuring -> higher or lower AlgemeneFuncties lijn 110</li>
-    <li>Spread & Rest operator -> spread operator: higher or lower AlgemeneFuncties lijn 127, rest operator: calculator main.js lijn 26</li>
-    <li>Iteration over een array -> calculator main.js lijn 51</li>
-    <li>Arrow function -> higher or lower mainscript lijn 7</li>
-    <li>Callback function -> higher or lower mainscript lijn 50</li>
-    <li>Promise -> higher or lower AlgemeneFuncties lijn 99</li>
-    <li>Consumer methods -> higher or lower AlgemeneFuncties lijn 120</li>
-    <li>Async & Await -> higher or lower AlgemeneFuncties lijn 83-85</li>
-    <li>Self executing function -> higher or lower AlgemeneFuncties lijn 1</li>
-    <li>Fetch om data op te halen -> higher or lower AlgemeneFuncties lijn 85</li>
-    <li>JSON manipuleren en weergeven -> higher or lower AlgmeneFuncties lijn 123,148-169</li>
-    <li>Basis CSS Animatie -> Higher_Or_Lower CSS lijn 249</li>
-    <li>Gebruiken van een flexbox of CSS grid -> Higher or  lower flexbox CSS 
-    lijn 46, Calculator CSS lijn 9</li>
-    <li>Gebruik van LocalStorage -> higher or lower AlgmeneFuncties lijn 40-56</li>
-</ul>
+# Elementen selecteren
+higher_or_lower/mainscript.js:1
+
+# Elementen manipuleren
+higher_or_lower/mainscript.js:6
+
+# Event aan een element koppelen
+higher_or_lower/mainscript.js:39
+
+# Formulier valideren
+calculator/main.js:72
+user_verification.js:entire file
+
+# Gebruiken van een constante
+higher_or_lower/mainscript.js:1
+
+# Gebruiken van template literals
+higher_or_lower/mainscript.js:41
+
+# Destructuring
+higher_or_lower/AlgemeneFuncties.js:110
+
+# Spread & Rest operator
+higher_or_lower/AlgemeneFuncties.js:127 (spread operator)
+calculator/main.js:26 (rest operator)
+
+# Iteration over een array
+calculator/main.js:51
+
+# Arrow function
+higher_or_lower/mainscript.js:7
+
+# Callback function
+higher_or_lower/mainscript.js:50
+
+# Promise
+higher_or_lower/AlgemeneFuncties.js:99
+
+# Consumer methods
+higher_or_lower/AlgemeneFuncties.js:120
+
+# Async & Await
+higher_or_lower/AlgemeneFuncties.js:83-85
+
+# Self executing function
+higher_or_lower/AlgemeneFuncties.js:1
+
+# Fetch om data op te halen
+higher_or_lower/AlgemeneFuncties.js:85
+
+# JSON manipuleren en weergeven
+higher_or_lower/AlgemeneFuncties.js:123, 148-169
+
+# Basis CSS Animatie
+higher_or_lower/CSS.css:249
+
+# Gebruiken van een flexbox of CSS grid
+higher_or_lower/flexbox.css:46
+calculator/CSS.css:9
+
+# Gebruik van LocalStorage
+higher_or_lower/AlgemeneFuncties.js:40-56
+
 
 <h2>Bronnen</h2>
 
