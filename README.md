@@ -80,6 +80,11 @@ bronnen commit 6:
 
 Manier om van string arrays te maken[W3schools](https://www.w3schools.com/jsref/jsref_from.asp)
 
+bronnen commit 7:
+[ChatGPT/Copilot](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+
+Info over de verschillende eventlisteners [W3schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
 
 
 
