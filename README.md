@@ -11,68 +11,27 @@
 <h2>Checklist</h2>
 <p>Hieronder staat de checklist van gebruikte javascript concepten en waar ik deze heb toegepast. </p> 
 
-# Elementen selecteren
-higher_or_lower/mainscript.js:1
+- Elementen selecteren -> higher_or_lower/mainscript.js:1
+- Elementen manipuleren -> higher_or_lower/mainscript.js:6
+- Event aan een element koppelen -> higher_or_lower/mainscript.js:39
+- Formulier valideren -> calculator/main.js:72, user_verification.js:entire file
+- Gebruiken van een constante -> higher_or_lower/mainscript.js:1
+- Gebruiken van template literals -> higher_or_lower/mainscript.js:41
+- Destructuring -> higher_or_lower/AlgemeneFuncties.js:110
+- Spread & Rest operator -> spread operator: higher_or_lower/AlgemeneFuncties.js:127, rest operator: calculator/main.js:26
+- Iteration over een array -> calculator/main.js:51
+- Arrow function -> higher_or_lower/mainscript.js:7
+- Callback function -> higher_or_lower/mainscript.js:50
+- Promise -> higher_or_lower/AlgemeneFuncties.js:99
+- Consumer methods -> higher_or_lower/AlgemeneFuncties.js:120
+- Async & Await -> higher_or_lower/AlgemeneFuncties.js:83-85
+- Self executing function -> higher_or_lower/AlgemeneFuncties.js:1
+- Fetch om data op te halen -> higher_or_lower/AlgemeneFuncties.js:85
+- JSON manipuleren en weergeven -> higher_or_lower/AlgemeneFuncties.js:123, 148-169
+- Basis CSS Animatie -> higher_or_lower/CSS.css:249
+- Gebruiken van een flexbox of CSS grid -> higher_or_lower/flexbox.css:46, calculator/CSS.css:9
+- Gebruik van LocalStorage -> higher_or_lower/AlgemeneFuncties.js:40-56
 
-# Elementen manipuleren
-higher_or_lower/mainscript.js:6
-
-# Event aan een element koppelen
-higher_or_lower/mainscript.js:39
-
-# Formulier valideren
-calculator/main.js:72
-user_verification.js:entire file
-
-# Gebruiken van een constante
-higher_or_lower/mainscript.js:1
-
-# Gebruiken van template literals
-higher_or_lower/mainscript.js:41
-
-# Destructuring
-higher_or_lower/AlgemeneFuncties.js:110
-
-# Spread & Rest operator
-higher_or_lower/AlgemeneFuncties.js:127 (spread operator)
-calculator/main.js:26 (rest operator)
-
-# Iteration over een array
-calculator/main.js:51
-
-# Arrow function
-higher_or_lower/mainscript.js:7
-
-# Callback function
-higher_or_lower/mainscript.js:50
-
-# Promise
-higher_or_lower/AlgemeneFuncties.js:99
-
-# Consumer methods
-higher_or_lower/AlgemeneFuncties.js:120
-
-# Async & Await
-higher_or_lower/AlgemeneFuncties.js:83-85
-
-# Self executing function
-higher_or_lower/AlgemeneFuncties.js:1
-
-# Fetch om data op te halen
-higher_or_lower/AlgemeneFuncties.js:85
-
-# JSON manipuleren en weergeven
-higher_or_lower/AlgemeneFuncties.js:123, 148-169
-
-# Basis CSS Animatie
-higher_or_lower/CSS.css:249
-
-# Gebruiken van een flexbox of CSS grid
-higher_or_lower/flexbox.css:46
-calculator/CSS.css:9
-
-# Gebruik van LocalStorage
-higher_or_lower/AlgemeneFuncties.js:40-56
 
 
 <h2>Bronnen</h2>
