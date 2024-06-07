@@ -41,10 +41,10 @@
 
 
 bronnen commit 1:
-[ChatGPT](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 bronnen commit 2:
-[ChatGPT](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 Cursus Web Advanced 
 
@@ -55,14 +55,14 @@ videos 2,3,6
 Video over callbacks [Video](https://www.youtube.com/watch?v=kz_vwAF4NHI)
 
 bronnen commit 3:
-[ChatGPT](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 Youtube videos Mike Derycke: 
 [YoutubePlaylistLink](https://www.youtube.com/playlist?list=PLGsnrfn8XzXhJUyCxjyvMmHDD-HbL2pDy)
 videos 7,8,17
 
 bronnen commit 4: 
-[ChatGPT](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 Video over het gebruik van LocalStorage:
 [Youtubelink](https://www.youtube.com/watch?v=fYTTUBa-lPc)
@@ -72,16 +72,16 @@ Algemene info over het gebruik van JSON:
 
 
 bronnen commit 5: 
-[ChatGPT/Copilot](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT/Copilot](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 bronnen commit 6:
-[ChatGPT/Copilot](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT/Copilot](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 
 Manier om van string arrays te maken[W3schools](https://www.w3schools.com/jsref/jsref_from.asp)
 
 bronnen commit 7:
-[ChatGPT/Copilot](https://docs.google.com/document/d/1Lo2jp73s9nXXPD-ApCUvF9xzixgoagjj/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
+[ChatGPT/Copilot](https://docs.google.com/document/d/1lQqNMMO7fXErsFq09_CsswNk3ferKJOB/edit?usp=sharing&ouid=110618404478427787920&rtpof=true&sd=true)
 
 Info over de verschillende eventlisteners [W3schools](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
